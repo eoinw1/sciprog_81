@@ -1,1 +1,1 @@
-d
+practical03 finds the area under tan(x) from 0 to (pi/3) using the trapezoid method

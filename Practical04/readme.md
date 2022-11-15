@@ -1,0 +1,1 @@
+practical04 finds the value of tan(x) from [0,60] every 5 degrees then prints it in an array, then finds the area under the curve for tan(x) from 0 to 60
