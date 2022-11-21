@@ -1,0 +1,1 @@
+Detects if a matrix is a magic square. square.txt given as example to be fed into program
